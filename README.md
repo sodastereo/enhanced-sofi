@@ -1,16 +1,17 @@
-# [Enhanced Readwise Reader](https://github.com/sodastereo/enhanced-readwise-reader)
+# [Enhanced SoFi](https://github.com/sodastereo/enhanced-sofi)
 
-An enhanced version of Readwise Reader UI for Arc Browser.
+An enhanced version of SoFi UI for Arc Browser.
 
-▶︎ Darker Sidebar
+▶︎ Removes Cluttered Boxes
 
-▶︎ Off White Icons
+▶︎ Keeps Current Balance and Relay Insight
+
 
 ▶︎ Easy On the Eyes
 
 ## Preview
 
-![Preview](https://user-images.githubusercontent.com/65195487/209231931-0c985583-0a87-42e0-925a-b9fde5e4c2e0.png)
+![Preview](https://user-images.githubusercontent.com/65195487/209234021-9580bffd-d306-4755-8fe9-938bc82fa0de.png)
 
 ## Instructions
 
@@ -18,4 +19,4 @@ Copy the CSS to your Arc Boost
 
 ## Credits
 
-Readwise Reader and Arc Browser
+SoFi and Arc Browser
