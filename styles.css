@@ -1,32 +1,40 @@
-/* Variables */
+/* These are variables used below */
 :root {
-  --icon-interactive: var(#666666);
+   --visible: none;
 }
 
-/* Sidebar color */
-._content_bp7cs_58 {
-  background: #414447;
+/* Removes the credit score box */
+.DesktopWrapper-sc-1nxe7wn-0 > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > a:nth-child(1) {
+    display: var(--visible);
+
 }
 
-/* Sidebar icon colors */
-._item_bp7cs_141 svg {
-  fill: #f0f0f1 !important;
+/* Removes the student loan box */
+.DesktopWrapper-sc-1nxe7wn-0 > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > a:nth-child(1) {
+    display: var(--visible);
+
 }
 
-/* Sidebar icon colors after the Plus sign */
-._buttonDefault_65yci_21 {
-  color: #f0f0f1 !important;
+/* Removes the personal loan box */
+div.StyledAccountColumnContainer-sc-1wyculg-0:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > a:nth-child(1) {
+    display: var(--visible);
+
 }
 
-/* Sidebar Plus icon attempt to override arc default important */
-._triggerElement_69dyg_1 te {
-    background: var(--icon-interactive) !important;
+/* Removes the investment box */
+.DesktopWrapper-sc-1nxe7wn-0 > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > div:nth-child(1) > a:nth-child(1) {
+    display: var(--visible);
+
 }
 
-._button_65yci_1 _circleButton_bp7cs_83 _appDropdownButton_bp7cs_96 _triggerElement_69dyg_1  _buttonDefault_65yci_21 {
-    background: var(--icon-interactive) !important;
+/* Removes the mortgage box */
+div.StyledAccountColumnContainer-sc-1wyculg-0:nth-child(2) > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > a:nth-child(1) {
+    display: var(--visible);
+
 }
 
-#radix-0 {
-  background: var(--icon-interactive) !important;
+/* Removes the investment box */
+div.StyledBG-sc-1go9my9-0.jrIzai.plus-bg > div > div > div.sc-cjibBx.iylnDO > div.DesktopWrapper-sc-1nxe7wn-0.WwkAf > div:nth-child(2) > div:nth-child(4) > div {
+  display: var(--visible)
+
 }
